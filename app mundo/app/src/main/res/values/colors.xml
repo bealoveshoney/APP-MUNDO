@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#3E2723</color> <!-- Marrón oscuro (tono tierra profundo) -->
+    <color name="primary">#FF9800</color> <!-- Naranja quemado (color cálido y aventurero) -->
+    <color name="white">#FFFFFF</color> <!-- Blanco -->
+    <color name="red">#D84315</color> <!-- Terracota (tono rojizo tierra) -->
+    <color name="red_osc">#BF360C</color> <!-- Rojo óxido (tierra rojiza intensa) -->
+    <color name="purple_200">#8D6E63</color> <!-- Marrón suave (madera clara) -->
+    <color name="purple_500">#5D4037</color> <!-- Marrón medio (tierra oscura) -->
+    <color name="purple_700">#4E342E</color> <!-- Marrón profundo (barro) -->
+    <color name="teal_200">#A1887F</color> <!-- Beige arena (suave y neutro) -->
+    <color name="teal_700">#6D4C41</color> <!-- Marrón cálido (madera envejecida) -->
+    <color name="lavender">#FFD54F</color> <!-- Amarillo mostaza (resaltante y aventurero) -->
+    <color name="colorGray">#BCAAA4</color> <!-- Gris piedra (tono neutro) -->
+    <color name="colorGrayLight">#D7CCC8</color> <!-- Gris arena (muy claro) -->
+    <color name="colorDarkGray">#8D8D8D</color> <!-- Gris oscuro (piedra volcánica) -->
+    <color name="verde">#A5D6A7</color> <!-- Verde seco (vegetación de desierto) -->
+    <color name="violeta">#FFAB40</color> <!-- Naranja amanecer (destacado y vibrante) -->
+    <color name="negro">#3E2723</color> <!-- Marrón oscuro (igual que black) -->
+    <color name="blanco">#FFFFFF</color> <!-- Blanco -->
+</resources>
+

@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Nómada</string>
+    <string name="mis_experiencias">Juegos favoritos</string>
+    <string name="Tops">Tops</string>
+    <string name="sin_cuenta">¿Sin cuenta?</string>
+    <string name="Perfil">Perfil</string>
+    <string name="titulo_perfil">Modifica tus datos</string>
+    <string name="Filtros">Filtros</string>
+    <string name="publicaciones">VIDEOJUEGOS PUBLICADOS</string>
+    <string name="redsocial">Reddit</string>
+    <string name="image_description">Describe tu imagen</string>
+    <string name="titulo_ppal">Publicar un título</string>
+    <string name="titulo_post">Lugar que visitaste</string>
+    <string name="videojuego">Videojuego reseñado </string>
+    <string name="Fhome">Publicaciones</string>
+    <string name="comienzaUnChat">Comunicate</string>
+    <string name="registrate">REGISTRATE</string>
+    <string name="nombre_usuario">"Nombre de Usuario"</string>
+    <string name="correo">"Correo electrónico"</string>
+    <string name="pass">"Contraseña"</string>
+    <string name="pass1">"Confirmar Contraseña"</string>
+    <string name="descripcion">Describe tu experiencia</string>
+    <string name="precio"> Presupuesto estimado (USD)</string>
+    <string name="puntuacion">Duración del viaje (ej. 3 días)</string>
+    <string name="publicar">Publicar</string>
+    <string name="actualizar">Actualizar Perfil</string>
+    <string name="transtionname_picture">transitionnamepicture</string>
+    <string name="err_pass">La contraseña no puede estar vacía</string>
+    <string name="err_pass1">La contraseña debe tener al menos 6 carácteres</string>
+    <string name="err_pass2">Las contraseñas no coinciden</string>
+    <string name="cargando">Cargando datos...</string>
+    <string-array name="categorias_array">
+        <item>Naturaleza</item>
+        <item>Montaña</item>
+        <item>Aventura</item>
+        <item>Cultura</item>
+        <item>Playa</item>
+        <item>Religión</item>
+    </string-array>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="back4app_app_id">wbO3vQC7sppTn4owYq1x89zR5DtU7pNppSuHfYj5</string>
+    <string name="back4app_client_key">ZONkg120QtqsiQwBnhG5uqZVIjxM8qsKUEclMl9j</string>
+</resources>
